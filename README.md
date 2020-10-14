@@ -11,11 +11,13 @@ The district summary shows the least amount of change from replacing the Thomas 
 ![District_Summary_Df_Old](District_Summary_Df_Old.png)
 
 - How is the school summary affected?
+
 Only one row, the Thomas High School's associated data, is affected in the school summary. Here, Thomas High School's average math and reading scores, the % passing math, reading, and overall are all updated to reflect the values without taking the ninth graders into account. 
 ![Thomas_High_School_Old](Thomas_High_School_Old.png)
 ![Thomas_High_School_New](Thomas_High_School_New.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 Replacing the ninth graders' math and reading scores dramatically bumped up the passing percentages for math and reading, as well as overall. Prior to replacing the scores, Thomas High School's performance for math, reading, and overall were all around the 60% range. After removing them from the updated analysis, the school's performance shot up to the 90% range for all three percentages. Relative to the other schools, Thomas High School is now top 2 based off of the % Overall Passing metric, when before they would not have been ranked in the top 5. 
 ![Thomas_High_School_Top_2](Thomas_High_School_Top_2.png)
 
