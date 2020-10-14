@@ -6,6 +6,7 @@ The purpose of this analysis was to provide the Maria and the school board with 
 
 ## Results
 - How is the district summary affected?
+
 The district summary shows the least amount of change from replacing the Thomas High School ninth grade math and reading scores to NaNs, as it is the most high-level analysis conducted. The only minor change is the average math score, which is now 78.9, a 0.1 difference from the original analysis.
 ![District_Summary_Df_New](District_Summary_Df_New.png)
 ![District_Summary_Df_Old](District_Summary_Df_Old.png)
